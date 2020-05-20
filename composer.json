@@ -1,0 +1,13 @@
+{
+    "name": "ak/githubapi",
+    "type": "project",
+    "private": "true",
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    }
+}
